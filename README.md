@@ -7,19 +7,17 @@ Call to Action to Go Out to include;  Kantara, Open Notice, My Data,  EU, and PD
 This propsoal is the latest thinking on a Privacy Day Campaign. 
 
 ** Kantara Proposal **
-With the support of CISWG, the newly formed Open Consent Group is looking for a commitment of $7,500 in funding from Kantara Initiative to continue to develop the consent receipts and user submitted terms. Matching funds would be obtained from another, to be determined, organisation.
+With the support of CISWG, the newly formed Open Consent Group is looking for a commitment of $7,500 in funding from Kantara Initiative to support the development and deployment of the consent receipt specification.  Matching funds would be constributed from another source.
 
-Contributions funds would be used engage resources to support the use of CIS work product with the I DON'T AGREE Campaign and collaboration.  
+Contributions will be used to engage resources to support the use of CIS work product with the I DON'T AGREE Campaign being launched for Privacy Day January 28, 2016 and ends on Privacy Day 2017.  s
 
-A campaign that begins on Privacy Day, January 28, 2016 and ends on Privacy Day 2017.  s
+The campaing website will have  a button that people can press to campaign for open source consent technology.  This will register support and interest, and people/companies can optionally fill in a survey. 
 
-It will start with a button that people can press to campaign for open source consent technology.  This will register support and interest, and people/companies can optionally fill in a survey. 
+In 2017 the aim is to createa button that actually use open consent to Not Agree to terms and services. 
 
-It will end with a button people press to use open consent to manage identity and control the access and use of personal data. 
+Privacy Day 2016 will kick off the project, and start the educational campaign to support the year long project. The optional survey will be for research about the button and the project.   T
+ 
 
-For Privacy Day 2016, People can start to sign up to support the for 2017. The optional survey will be for research about the button and the project.   This will come with a roadmap of workshops and open calls to discuss different aspects of consent technology.  A space for companies or projectrs interested in consent tech  can post an intro. 
-
-Then, with a years worth of collaboration, build an open service for  Privacy Day, where people can manage their consent and hence access to personal data. 
 
 ** Key Benefits **
 
