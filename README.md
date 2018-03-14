@@ -111,10 +111,10 @@ Join us and support a campaign that will provide cutting edge research into the 
 
 Sincerely,
 
-Mark Lizar
+Mark 
 Executive Director
 Open Consent Group Ltd
-+44 07738382658
+
 
  
 
